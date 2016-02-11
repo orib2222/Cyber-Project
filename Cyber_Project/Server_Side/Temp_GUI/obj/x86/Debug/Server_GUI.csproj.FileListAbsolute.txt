@@ -1,0 +1,25 @@
+C:\Users\Ori\Desktop\Cyber_Project\Server_Side\Temp_GUI\obj\x86\Debug\Temp_GUI.exe
+C:\Users\Ori\Desktop\Cyber_Project\Server_Side\Temp_GUI\obj\x86\Debug\Temp_GUI.pdb
+C:\Users\Ori\Desktop\Cyber_Project\Server_Side\Temp_GUI\bin\Debug\Temp_GUI.exe
+C:\Users\Ori\Desktop\Cyber_Project\Server_Side\Temp_GUI\bin\Debug\Temp_GUI.pdb
+C:\Users\Ori\Desktop\Cyber_Project\Server_Side\Temp_GUI\obj\x86\Debug\Temp_GUI.Form1.resources
+C:\Users\Ori\Desktop\Cyber_Project\Server_Side\Temp_GUI\obj\x86\Debug\Temp_GUI.Properties.Resources.resources
+C:\Users\Ori\Desktop\Cyber_Project\Server_Side\Temp_GUI\obj\x86\Debug\Server_GUI.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Cyber_Project - Copy\Server_Side\Temp_GUI\obj\x86\Debug\Temp_GUI.exe
+C:\Users\User\Desktop\Cyber_Project - Copy\Server_Side\Temp_GUI\obj\x86\Debug\Temp_GUI.pdb
+C:\Users\User\Desktop\Cyber_Project - Copy\Server_Side\Temp_GUI\bin\Debug\Temp_GUI.exe
+C:\Users\User\Desktop\Cyber_Project - Copy\Server_Side\Temp_GUI\bin\Debug\Temp_GUI.pdb
+C:\Users\User\Desktop\Cyber_Project - Copy\Server_Side\Temp_GUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Cyber_Project - Copy\Server_Side\Temp_GUI\obj\x86\Debug\Temp_GUI.Form1.resources
+C:\Users\User\Desktop\Cyber_Project - Copy\Server_Side\Temp_GUI\obj\x86\Debug\Temp_GUI.Properties.Resources.resources
+C:\Users\User\Desktop\Cyber_Project - Copy\Server_Side\Temp_GUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Cyber_Project - Copy\Server_Side\Temp_GUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\Cyber_Project\Server_Side\Temp_GUI\obj\x86\Debug\Temp_GUI.exe
+C:\Users\User\Desktop\Cyber_Project\Server_Side\Temp_GUI\obj\x86\Debug\Temp_GUI.pdb
+C:\Users\User\Desktop\Cyber_Project\Server_Side\Temp_GUI\bin\Debug\Temp_GUI.exe
+C:\Users\User\Desktop\Cyber_Project\Server_Side\Temp_GUI\bin\Debug\Temp_GUI.pdb
+C:\Users\User\Desktop\Cyber_Project\Server_Side\Temp_GUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Cyber_Project\Server_Side\Temp_GUI\obj\x86\Debug\Temp_GUI.Form1.resources
+C:\Users\User\Desktop\Cyber_Project\Server_Side\Temp_GUI\obj\x86\Debug\Temp_GUI.Properties.Resources.resources
+C:\Users\User\Desktop\Cyber_Project\Server_Side\Temp_GUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Cyber_Project\Server_Side\Temp_GUI\obj\x86\Debug\GenerateResource.write.1.tlog
