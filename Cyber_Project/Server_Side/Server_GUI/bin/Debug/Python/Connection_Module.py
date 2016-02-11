@@ -15,14 +15,14 @@ class Connecting_Using_Pipe():
     
     
     def __init__(self):
-        Temp = open(r'\\.\pipe\ClientData', 'r+b', 0)
+        Temp = open(r'\\.\pipe\Data', 'r+b', 0)
         self.connecting_client_server_Pipe = Temp
         self.lock = threading.Semaphore(1)
    
 
 
     def Pipe_Client_To_Server(self,data):
-
+      
 
         self.lock.acquire(1)
         self.connecting_client_server_Pipe.write(struct.pack('I', len(data)) + data)
@@ -31,12 +31,11 @@ class Connecting_Using_Pipe():
 
 
     def Pipe_Server_To_Client(self):
-
+        
         Data_From_Server_Len = struct.unpack('I', self.connecting_client_server_Pipe.read(4))[0]     # Read str length
         Data = self.connecting_client_server_Pipe.read(Data_From_Server_Len)                         # Read str
         self.connecting_client_server_Pipe.seek(0)
         return Data
-
        ## f = open('C:\\Users\\User\\Desktop\\ttt.txt', 'w')
        ## f.write(Data)
        ## f.close()
